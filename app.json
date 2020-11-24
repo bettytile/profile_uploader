@@ -1,0 +1,12 @@
+{
+  "name": "ProfileUploder",
+  "displayName": "ProfileUploder",
+  "expo": {
+    "name": "ProfileUploder",
+    "slug": "ProfileUploder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
